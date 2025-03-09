@@ -1,3 +1,27 @@
+/*
+ * UNO Game - C++ Implementation
+ * 
+ * Description:
+ * This is a C++ implementation of the classic card game UNO. The game supports two players
+ * and includes all standard UNO rules, such as playing matching cards, drawing cards, and
+ * using special cards like Skip, Reverse, Draw Two, Wild, and Wild Draw Four. The game also
+ * features a scoreboard to track wins and a history log to save game results.
+ *
+ * Author: Abdullah
+ * GitHub: abdullah-netiz
+ * Email: abdullah.email.mee@gmail.com
+ * Date: 01 ‎December ‎2024
+ *
+ * License: MIT License
+ * 
+ * How to Use:
+ * 1. Compile the code using a C++ compiler (e.g., g++ -o uno_game main.cpp).
+ * 2. Run the executable (e.g., ./uno_game).
+ * 3. Follow the on-screen instructions to play the game.
+ *
+ * Enjoy playing UNO! 🎴
+ */
+
 #include <iostream>
 #include <windows.h> 
 #include <cstdlib> 
